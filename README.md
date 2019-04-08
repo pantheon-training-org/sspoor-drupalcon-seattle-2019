@@ -5,3 +5,6 @@
 [![Dev Site sspoor-drupalcon-seattle-2019](https://img.shields.io/badge/site-sspoor_drupalcon_seattle_2019-blue.svg)](http://dev-sspoor-drupalcon-seattle-2019.pantheonsite.io/)
 
 'Click the badges for more information.'
+
+'Forgot the vr flag'
+
