@@ -33,6 +33,18 @@
       "readyEvent": null,
       "delay": 1500,
       "misMatchThreshold" : 0.1
+    },
+    {
+      "label": "User Login",
+      "url": "/user/login",
+      "referenceUrl": "/user/login",
+      "hideSelectors": [],
+      "selectors": [
+        "document"
+      ],
+      "readyEvent": null,
+      "delay": 1500,
+      "misMatchThreshold": 0.1
     }
   ],
   "paths": {
